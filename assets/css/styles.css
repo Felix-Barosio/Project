@@ -206,6 +206,7 @@ button{
 #list h3{
     color: #2549d3;
     font-size: 40px;
+    padding-left: 20px;
 
 
 }
@@ -403,7 +404,7 @@ button{
     color: white;
     display: flex;
     list-style: none;
-    padding: 0px;
+    padding-left: 20px;
     width: auto;
     flex-wrap: wrap;
     
