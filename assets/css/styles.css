@@ -71,6 +71,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     margin-bottom: 85px;
+    width: auto;
 
 }
 .section img{
@@ -402,7 +403,7 @@ button{
 /*Bottom Bar*/
 
 .last{
-    background-color: #0f298b;
+    background-color: #2549d3;
     color: white;
     display: flex;
     list-style: none;
