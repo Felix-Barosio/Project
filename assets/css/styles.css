@@ -21,8 +21,8 @@ body{
     color: #000;
     float: left;
     position: relative;
-    left: -30px;
-    font-size: 28px;
+    left: -25px;
+    font-size: 35px;
     font-family: 'Oleo Script', cursive;
 }
 
@@ -95,9 +95,9 @@ body{
 button{
     color: white;
     background-color: #0f298b;
-    margin: 2px;
-    border-radius: 5px;
-    padding: 2px;
+    
+    flex-wrap: wrap;
+    text-align: left;
     
 }
 
