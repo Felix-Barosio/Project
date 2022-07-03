@@ -149,7 +149,7 @@ button{
 }
 
 .product h1{
-    font-size: 21px;
+    font-size: 27px;
     margin-bottom: 40px;
     text-align: center;
 
@@ -248,7 +248,7 @@ button{
 
 .container .urban p{
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     
 }
 .container .urban ol{
@@ -363,6 +363,7 @@ button{
 
 .teams p{
     text-align: center;
+    font-size: 18px;
 }
 
 .customers{
