@@ -321,6 +321,30 @@ button{
     height: 150px;
 }
 
+.alex li{
+    background-color: #0f298b;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    border-radius: 10px;
+    
+
+}
+.alex ul{
+    
+   
+   
+    
+}
+
+.alex ul .view{
+    color: #fafafa;
+}
+.alex li a{
+    color: #fafafa;
+    text-decoration: none;
+    padding: 13px;
+    
+}
 
 /*start of customer section*/
 .team{
